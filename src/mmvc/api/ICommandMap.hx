@@ -22,6 +22,7 @@ SOFTWARE.
 
 package mmvc.api;
 
+
 import msignal.Signal;
 import mmvc.api.ICommand;
 
